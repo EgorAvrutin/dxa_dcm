@@ -6,9 +6,9 @@ A small utility script to automate the process of data entry for DXA body compos
 
 1. Install required packages:
 
->**Basic: **`pip install numpy pandas pydicom Pillow openpyxl`
+   **Basic: **`pip install numpy pandas pydicom Pillow openpyxl`
 
->**Recommended: ** Create a project virtual environment and install `requirements.txt`.
+   **Recommended: ** Create a project virtual environment and install `requirements.txt`.
 
 ## Instructions
 
